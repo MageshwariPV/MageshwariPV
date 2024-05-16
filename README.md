@@ -14,7 +14,7 @@ You can view my certifications and courses here: <a href="https://www.linkedin.c
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
     &nbsp;
-<a href="mageshwaripvm25.com" target = "_blank" rel="nofollow noreferrer">
+<a href="mageshwaripvm25@.com" target = "_blank" rel="nofollow noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "gmail">
 </a>
 
