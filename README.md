@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello! I'm Mageshwari PV👋
 
+A recent MSc Business Analytics graduate from Warwick Business School, UK. I am passionate about leveraging the power of data and analytics to drive informed decision-making and uncover insights that propel business growth. With five years of experience as a Data Analyst in market research and competitor analysis, I have honed my skills in identifying market opportunities, and consumer trends. I am proficient in analysing large datasets to extract actionable insights and have experience in building machine learning models for various use cases. Additionally, I am skilled in developing mathematical models for optimisation.
+
+During my MSc programme, I worked on several projects that showcase my skills and expertise. You can find the detailed descriptions and results of these projects here:
+
+I have completed a variety of certifications and courses to further enhance my knowledge and skills in data analytics and business intelligence. You can view my certifications and courses here: 
+
+I am always eager to connect with like-minded professionals and explore new opportunities. Feel free to reach out to me on LinkedIn or explore my work here on GitHub.
+
+Thank you for visiting my profile!
 <!--
 **MageshwariPV/MageshwariPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
